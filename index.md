@@ -1,7 +1,7 @@
 ## Steps to Set Up a Virtual Environment for the Project
 
 Create a Virtual Environment
-`PS C:\OrgProjects\SkillUps\Understanding-DS-using-python> python -m venv venv`
+`python -m venv venv`
 
 Activate the Virtual Environment
 `venv\Scripts\Activate` - Powershell
