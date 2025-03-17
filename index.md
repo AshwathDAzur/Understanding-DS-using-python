@@ -18,3 +18,12 @@ To run in another machine (In the Shell)
 `python -m venv venv`
 `venv\Scripts\Activate`
 `pip install -r requirements.txt`
+
+## Pandas
+
+- Package to manipuate tables
+- Built on top of numpy so is efficient
+- Two baic Data structures
+    - Series
+    - DataFrame
+- 
