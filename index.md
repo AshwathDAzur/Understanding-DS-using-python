@@ -24,6 +24,6 @@ To run in another machine (In the Shell)
 - Package to manipuate tables
 - Built on top of numpy so is efficient
 - Two baic Data structures
-    - Series
-    - DataFrame
+    - Series - 1D array rep
+    - DataFrame - 2D array rep
 - 
